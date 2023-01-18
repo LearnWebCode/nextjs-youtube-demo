@@ -27,10 +27,6 @@ body {
   color: #222;
 }
 
-.header-nav a:hover {
-  color: #888;
-}
-
 .site-footer {
   margin-top: 1rem;
   border-top: 1px dotted #adadad;
